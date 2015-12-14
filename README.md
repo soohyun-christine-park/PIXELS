@@ -7,7 +7,8 @@ Parsons School of Design / Solo Work
 
 PIXELS is a series of light-emitting objects and an iOS application that blends digital and physical spaces. We live in a world in which the digital and physical are intertwined. At this point, it would be impossible to separate them. In the project, it asks how much we perceive their co-existence. It aims that the users to ask how much we are adapting to the blended environment. 
 
-![ScreenShot](https://github.com/soohyun-christine-park/Timer-App/blob/master/Timer-App-001.png)
+![ScreenShot](https://github.com/soohyun-christine-park/PIXELS/images/app-feature(2).jpg)
+![ScreenShot](https://github.com/soohyun-christine-park/PIXELS/images/app-feature.jpg)
 
 # Code Runs On:
 + iOS 8.3+
